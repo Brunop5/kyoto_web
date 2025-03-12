@@ -1,0 +1,11 @@
+main {
+    text-align: center;
+}
+img {
+    transition: transform 0.3s ease, filter 0.3s ease;
+    min-width: 320px;
+    max-width: 20%;
+}
+img:hover {
+    transform: scale(1.1);
+}
