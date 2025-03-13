@@ -1,0 +1,9 @@
+main {
+    display: flex;
+}
+
+.contact {
+    max-width: 70%;
+    min-width: 50%;
+    text-align: center;
+}

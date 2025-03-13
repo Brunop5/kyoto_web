@@ -1,6 +1,7 @@
 html, body {
     height: 100%;
     margin: 0;
+    font-family: verdana;
 }
 
 body {
@@ -49,7 +50,7 @@ img {
     max-height: 100%;
 }
 
-h1 {
+.main_page_header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/../kyoto/images/main.jpg");
     display: flex; /* Enables flexbox */
     align-items: center; /* Centers vertically */
