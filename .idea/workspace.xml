@@ -47,14 +47,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/media/bruno/D/programming/webs/chartlabs_stuff/kyoto",
+    "last_opened_file_path": "/home/bruno/programming/web/chartlabs/kyoto",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -82,11 +82,16 @@
       <workItem from="1741643161980" duration="1012000" />
       <workItem from="1741714019154" duration="8942000" />
       <workItem from="1741794559093" duration="4500000" />
-      <workItem from="1741945941998" duration="3515000" />
+      <workItem from="1741945941998" duration="4354000" />
+      <workItem from="1742289352254" duration="188000" />
+      <workItem from="1742290034263" duration="3939000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="sitemap.xml" />
   </component>
 </project>
