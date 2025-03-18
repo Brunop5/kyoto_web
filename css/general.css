@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
     margin: 0;
-    font-family: verdana;
+    font-family: verdana, sans-serif;
 }
 
 body {
@@ -20,25 +20,53 @@ section {
     font-size: 3vw;
 }
 
-img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
-.main_page_header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/main.jpg");
-    display: flex; /* Enables flexbox */
-    align-items: center; /* Centers vertically */
-    justify-content: center; /* Centers horizontally */
-    margin: 0;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: auto;
-    min-height: 30vh;
-}
-
 main p {
     font-size: 20px;
+}
+
+#image_container {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    height: 40vh;
+}
+
+#image_container img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    filter: brightness(50%);
+}
+
+#image_container h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;  /* Adjust text color to make it stand out */
+    font-size: 3rem;
+    text-align: center;
+}
+
+#text_section {
+    text-align: center;
+    display: flex;
+    color: black;
+    height: 100%
+}
+
+#text_section aside {
+    width: auto;
+    color: white;
+    background-color: #0c2e33;
+}
+
+#text_section a {
+    white-space: nowrap; /* Prevent text from wrapping */
+    display: inline-block;
+    margin: 0 20px;
+    color: white;
+    padding: 20px 0;
+    text-decoration: none;
+    font-size: 1.5rem;
 }
