@@ -19,18 +19,20 @@
             </nav>
         </header>
         <main>
-            <div class="contact">
-                <h2>Contact1:</h2>
-                <p>+000000000</p>
-                <p>bbbb@ppppp.com</p>
-                <p>kyoto street 8511</p>
-            </div>
-            <div class="contact">
-                <h2>Contact2:</h2>
-                <p>+000000000</p>
-                <p>bbbb@ppppp.com</p>
-                <p>kyoto street 8511</p>
-            </div>
+            <form id="contact-form" method="POST">
+                <label for="fname">First Name:</label>
+                <input type="text" id="fname" name="fname" autocomplete="given-name"><br/>
+                <label for="lname">Last Name:</label><br/>
+                <input type="text" id="lname" name="lname" autocomplete="family-name"><br/>
+                <label for="email">Email:</label><br/>
+                <input type="email" id="email" name="email" autocomplete="email"><br/>
+                <label for="phone">Phone Number:</label><br/>
+                <input type="tel" id="phone" name="phone" autocomplete="tel"><br/>
+                <label for="message">Message:</label><br/>
+                <textarea id="message" name="message"></textarea><br/>
+                <button type="submit">Submit</button>
+                <button type="reset">Reset</button>
+            </form>
         </main>
         <footer>
             <p><span property="dct:title">KYOTO</span> by <span property="cc:attributionName">John</span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
