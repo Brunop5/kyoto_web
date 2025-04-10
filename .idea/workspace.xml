@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ef7452f9-7e99-41cc-bf77-04dcb616e33c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/general.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos_page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/photos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/bruno/programming/web/chartlabs/kyoto&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/bruno/D/programming/webs/chartlabs_stuff/kyoto&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -64,7 +64,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
       </set>
     </attachedChunks>
   </component>
@@ -83,6 +83,12 @@
       <workItem from="1741945941998" duration="4354000" />
       <workItem from="1742289352254" duration="188000" />
       <workItem from="1742290034263" duration="10480000" />
+      <workItem from="1743359946221" duration="102000" />
+      <workItem from="1743424825204" duration="5007000" />
+      <workItem from="1744053090244" duration="519000" />
+      <workItem from="1744278361396" duration="1871000" />
+      <workItem from="1744281055853" duration="2560000" />
+      <workItem from="1744294782180" duration="1231000" />
     </task>
     <servers />
   </component>

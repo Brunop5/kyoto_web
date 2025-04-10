@@ -1,9 +1,72 @@
-main {
-    display: flex;
+h1 {
+    display: none;
 }
 
-.contact {
-    max-width: 70%;
-    min-width: 50%;
-    text-align: center;
+form {
+    background-color: #021a2d;
+    color: #fff;
+    width: 80%;
+    border-radius: 5px;
+    padding: 35px;
+    margin: 20px auto;
+}
+
+input {
+    background-color: #f2f2f2;
+    width: 100%;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 8px 0;
+    padding: 12px 0;
+}
+
+textarea {
+    margin: 8px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    height: 150px;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+
+button {
+    background-color: #667A81;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    margin: 8px 0;
+    padding: 14px 20px;
+    width: 100%;
+}
+
+button:focus, button:hover {
+    filter: brightness(125%);
+}
+
+@media only screen and (min-width: 600px)
+{
+    form {
+        width: 65%;
+    }
+}
+
+@media only screen and (min-width: 768px)
+{
+    form {
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    form {
+        width: 40%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    form {
+        width: 30%;
+    }
 }
