@@ -7,6 +7,9 @@ main {
     text-align: center;
 }
 
+h1 {
+    display: none;
+}
 .row {
     display: flex;
     flex-wrap: wrap;
