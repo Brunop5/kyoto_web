@@ -5,14 +5,14 @@ The topic of the site is the city of **Kyoto**, presented through a few structur
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - HTML5  
 - CSS3
 
 ---
 
-## 📄 Pages Overview
+## Pages Overview
 
 - **`index.html`** – Landing page with:
   - Responsive header and navigation
@@ -25,7 +25,7 @@ The topic of the site is the city of **Kyoto**, presented through a few structur
   - Shared header and footer layout
 
 - **`photos.html`** – Gallery layout:
-  - Responsive rows of images (⚠️ images not included in this repository)
+  - Responsive rows of images (images not included in this repository)
 
 - **`contact.html`** – Contact form page:
   - Responsive form layout for user input
@@ -33,7 +33,7 @@ The topic of the site is the city of **Kyoto**, presented through a few structur
 
 ---
 
-## 📌 Notes
+## Notes
 
 - The site uses no JavaScript — just pure HTML and CSS.
 - Designed to be responsive across devices.
