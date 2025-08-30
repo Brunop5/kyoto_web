@@ -39,3 +39,5 @@ The topic of the site is the city of **Kyoto**, presented through a few structur
 - Designed to be responsive across devices.
 - Some placeholder content or assets (e.g. images) are missing from this version due to size or licensing.
 
+## Other Projects
+Check out my other project - Mint Machina (mintmachina.com) - a website for creating cryptocurrency easily
